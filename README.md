@@ -1,5 +1,7 @@
 # vue-practice1
 
+复制[liangxiaojuan/vue-todos](https://github.com/liangxiaojuan/vue-todos)项目练习
+
 ## Project setup
 ```
 npm install
